@@ -147,7 +147,7 @@ class Homepage extends React.Component {
                         </div>
                     </div>
 					
-					<div>Test</div>
+					<div>Test1</div>
 
                     <div className="row">
                     {
